@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fosoodahqu.theeffortreport.com/sitemap.xml
